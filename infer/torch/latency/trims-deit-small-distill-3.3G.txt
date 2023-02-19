@@ -1,0 +1,17 @@
+     Batch Size: 1
+        Warm up: 50 iteraion
+    Start timing: 1000 iteration
+Iteration 100/1000, avg batch time 76.68 ms
+Iteration 200/1000, avg batch time 76.46 ms
+Iteration 300/1000, avg batch time 76.62 ms
+Iteration 400/1000, avg batch time 76.69 ms
+Iteration 500/1000, avg batch time 76.72 ms
+Iteration 600/1000, avg batch time 76.76 ms
+Iteration 700/1000, avg batch time 76.78 ms
+Iteration 800/1000, avg batch time 76.80 ms
+Iteration 900/1000, avg batch time 76.82 ms
+Iteration 1000/1000, avg batch time 76.83 ms
+      Input shape: torch.Size([1, 3, 224, 224])
+     Output shape: torch.Size([1000])
+Avg batch time: 76.83 ms
+Latency per query: 76.83 ms
