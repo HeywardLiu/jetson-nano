@@ -1,0 +1,1 @@
+sudo docker exec -it l4t-ml bash
