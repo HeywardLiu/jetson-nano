@@ -1,0 +1,36 @@
+------------------------------
+          model: fp32-fp32-batch1_deit_small_distilled_patch16_224
+trt engine path: /root/mount-dir/models/trt-model/fp32/fp32-batch1_deit_small_distilled_patch16_224.trt
+Complete Evaluation.
+------------------------------
+------------------------------
+          model: fp32-fp32-batch1_deit_tiny_distilled_patch16_224
+trt engine path: /root/mount-dir/models/trt-model/fp32/fp32-batch1_deit_tiny_distilled_patch16_224.trt
+Complete Evaluation.
+------------------------------
+------------------------------
+          model: fp32-fp32-trims-deit-small-distill-3.1G-79.4
+trt engine path: /root/mount-dir/models/trt-model/fp32/fp32-trims-deit-small-distill-3.1G-79.4.trt
+Complete Evaluation.
+------------------------------
+------------------------------
+          model: fp32-fp32-trims-deit-small-distill-3.3G-80.56
+trt engine path: /root/mount-dir/models/trt-model/fp32/fp32-trims-deit-small-distill-3.3G-80.56.trt
+Complete Evaluation.
+------------------------------
+------------------------------
+          model: fp32-fp32-trims-deit-tiny-distill
+trt engine path: /root/mount-dir/models/trt-model/fp32/fp32-trims-deit-tiny-distill.trt
+Complete Evaluation.
+------------------------------
+------------------------------
+          model: fp32-fp32-trims-swin-distill-5.05G-82.8
+trt engine path: /root/mount-dir/models/trt-model/eval/fp32-trims-swin-distill-5.05G-82.8.trt
+Complete Evaluation.
+------------------------------
+------------------------------
+          model: fp32-fp32-swin_small_patch4_window7_224
+trt engine path: /root/mount-dir/models/trt-model/eval/fp32-swin_small_patch4_window7_224.trt
+Complete Evaluation.
+------------------------------
+Found existing evaluation result: /root/mount-dir/trt-inference/trt-acc/fp32/acc-fp32-fp32-trims-swin-distill-5.05G-82.8.txt
